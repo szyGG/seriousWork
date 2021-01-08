@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "seriousWork"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "组件."
   spec.description  = <<-DESC
    short description of A_section short description of A_section
@@ -28,11 +28,11 @@ Pod::Spec.new do |spec|
   #是否支持ARC
   spec.requires_arc = true
 
-  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.4" }
+  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.5" }
 
 
 
-  spec.source_files  = "seriousWork", "seriousWork/**/*.{h,m}"
+  spec.source_files  = "seriousWork/seriousWork/**/*.{h,m}"
   spec.resources = ['seriousWork/*.xcassets']
 
   spec.dependency "Masonry"

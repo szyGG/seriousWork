@@ -152,8 +152,7 @@
 		509DF1C82599891A00AF3309 /* seriousWork */ = {
 			isa = PBXGroup;
 			children = (
-				509DF4F02599B45A00AF3309 /* tabbar */,
-				509DF4E62599B15D00AF3309 /* popview */,
+				50B2DA2F25A83F7E00EDC50D /* seriosWork */,
 				509DF1C92599891A00AF3309 /* AppDelegate.h */,
 				509DF1CA2599891A00AF3309 /* AppDelegate.m */,
 				509DF1CF2599891A00AF3309 /* ViewController.h */,
@@ -162,10 +161,7 @@
 				509DF1D72599891C00AF3309 /* LaunchScreen.storyboard */,
 				509DF1DA2599891C00AF3309 /* Info.plist */,
 				509DF1DB2599891C00AF3309 /* main.m */,
-				509DF4F12599B49C00AF3309 /* UIView+ViewFrameGeometry.h */,
-				509DF4F22599B49C00AF3309 /* UIView+ViewFrameGeometry.m */,
 				509DF4FA2599B4EE00AF3309 /* PrefixHeader.pch */,
-				509DF50E2599BD8200AF3309 /* SeriousHeader.h */,
 			);
 			path = seriousWork;
 			sourceTree = "<group>";
@@ -214,6 +210,18 @@
 				509DF5132599BE8C00AF3309 /* BaseViewController.m */,
 			);
 			path = tabbar;
+			sourceTree = "<group>";
+		};
+		50B2DA2F25A83F7E00EDC50D /* seriosWork */ = {
+			isa = PBXGroup;
+			children = (
+				509DF50E2599BD8200AF3309 /* SeriousHeader.h */,
+				509DF4F12599B49C00AF3309 /* UIView+ViewFrameGeometry.h */,
+				509DF4F22599B49C00AF3309 /* UIView+ViewFrameGeometry.m */,
+				509DF4F02599B45A00AF3309 /* tabbar */,
+				509DF4E62599B15D00AF3309 /* popview */,
+			);
+			path = seriosWork;
 			sourceTree = "<group>";
 		};
 		C182272AA082682CDE2BFCB9 /* Pods */ = {
