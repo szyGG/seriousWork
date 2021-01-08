@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/szyGG/seriousWork.git"
 
 
-  spec.license          = { :type => 'MIT', :file => 'LICENSE' }
+  spec.license          = 'MIT'
  
 
   spec.author             = { 'szy' => '1538243267@qq.com' }
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   #是否支持ARC
   spec.requires_arc = true
 
-  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.2" }
+  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.3" }
 
 
 
