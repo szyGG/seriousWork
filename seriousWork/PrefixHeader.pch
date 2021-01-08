@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  seriousWork
+//
+//  Created by 史宗运 on 2020/12/28.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import "UIView+ViewFrameGeometry.h"
+#import "Masonry.h"
+#import "SeriousHeader.h"
+#endif
+
+
+#endif /* PrefixHeader_pch */
