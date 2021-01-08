@@ -11,7 +11,7 @@ end
 target 'seriousWork' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-  podLibs
+  podLibsMasonry
   # Pods for seriousWork
 
   target 'seriousWorkTests' do

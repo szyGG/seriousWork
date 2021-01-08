@@ -7,6 +7,7 @@
 
 #import "HomeViewController.h"
 #import "NDPopView.h"
+#import "SeriousHeader.h"
 @interface HomeViewController ()
 
 @end
