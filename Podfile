@@ -4,6 +4,7 @@
 def podLibs
 
 pod 'Masonry'
+pod 'HMSegmentedControl'
 
 end
 

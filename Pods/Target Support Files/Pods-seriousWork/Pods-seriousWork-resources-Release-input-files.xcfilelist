@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-seriousWork/Pods-seriousWork-resources.sh
+${PODS_ROOT}/WinningModuleLibs/Bundles/ApplyFormWriteBundle.bundle
+${PODS_ROOT}/WinningModuleLibs/Bundles/WardModuleBundle.bundle
+${PODS_ROOT}/WinningModuleLibs/Bundles/WinningFoundationBundle.bundle
+${PODS_ROOT}/WinningModuleLibs/Bundles/WinningUIKitBundle.bundle

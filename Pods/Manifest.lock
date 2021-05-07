@@ -1,16 +1,20 @@
 PODS:
+  - HMSegmentedControl (1.5.6)
   - Masonry (1.1.0)
 
 DEPENDENCIES:
+  - HMSegmentedControl
   - Masonry
 
 SPEC REPOS:
   trunk:
+    - HMSegmentedControl
     - Masonry
 
 SPEC CHECKSUMS:
+  HMSegmentedControl: 34c1f54d822d8308e7b24f5d901ec674dfa31352
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: cb75f44fa5d1ba2ad45e649e2bf8031ab4c331d2
+PODFILE CHECKSUM: be3417ea48dceb2850f392b5566b07e35e99ce62
 
 COCOAPODS: 1.9.3

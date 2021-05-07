@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "seriousWork"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "组件."
   spec.description  = <<-DESC
    short description of A_section short description of A_section
@@ -28,8 +28,9 @@ Pod::Spec.new do |spec|
   #是否支持ARC
   spec.requires_arc = true
 
-  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.6" }
-
+  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.7" }
+  spec.pod_target_xcconfig = { ‘EXCLUDED_ARCHS[sdk=iphonesimulator*]’ => ‘arm64’ }
+  spec.user_target_xcconfig = { ‘EXCLUDED_ARCHS[sdk=iphonesimulator*]’ => ‘arm64’ }
 
 
   spec.source_files  = "seriousWork/seriosWork/**/*.{h,m}"

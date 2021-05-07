@@ -10,6 +10,7 @@
 #import "NewsViewController.h"
 #import "CircleViewController.h"
 #import "MineViewController.h"
+#import "NavigationViewController.h"
 
 @interface MainViewController ()
 
@@ -21,16 +22,16 @@
     [super viewDidLoad];
     
     HomeViewController *home = [[HomeViewController alloc] init];
-    UINavigationController *nav1 = [[UINavigationController alloc] initWithRootViewController:home];
+    UINavigationController *nav1 = [[NavigationViewController alloc] initWithRootViewController:home];
     
     NewsViewController *new = [[NewsViewController alloc] init];
-    UINavigationController *nav2 = [[UINavigationController alloc] initWithRootViewController:new];
+    UINavigationController *nav2 = [[NavigationViewController alloc] initWithRootViewController:new];
     
     CircleViewController *circle = [[CircleViewController alloc] init];
-    UINavigationController *nav3 = [[UINavigationController alloc] initWithRootViewController:circle];
+    UINavigationController *nav3 = [[NavigationViewController alloc] initWithRootViewController:circle];
     
     MineViewController *mine = [[MineViewController alloc] init];
-    UINavigationController *nav4 = [[UINavigationController alloc] initWithRootViewController:mine];
+    UINavigationController *nav4 = [[NavigationViewController alloc] initWithRootViewController:mine];
     
     
     home.tabBarItem = [[UITabBarItem alloc]initWithTitle:@"首页"
@@ -51,6 +52,7 @@
     
     self.viewControllers = @[nav1,nav2,nav3,nav4];
     self.tabBar.translucent = YES;
+    [[UITabBarItem appearance] setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:TOPCAIL_COLOR, NSForegroundColorAttributeName, nil] forState:UIControlStateSelected];
 }
 
 /*

@@ -8,6 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		4F2EC172CB2D5BCDCD6B3B26 /* Pods_seriousWork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B6E61B4E1397D141E556CCF /* Pods_seriousWork.framework */; };
+		504F153F2627EF0200BFF308 /* ScrollTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F153E2627EF0200BFF308 /* ScrollTableViewController.m */; };
+		504F16C826280F8900BFF308 /* ListHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F16C726280F8900BFF308 /* ListHeaderView.m */; };
+		504F16D9262811C300BFF308 /* NDColorTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F16D8262811C300BFF308 /* NDColorTool.m */; };
+		504F16E22628123C00BFF308 /* NDUIConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F16E12628123C00BFF308 /* NDUIConfig.m */; };
+		504F16EC262817E600BFF308 /* SegmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F16EB262817E600BFF308 /* SegmentView.m */; };
+		504F16F226281B0B00BFF308 /* NavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F16F126281B0B00BFF308 /* NavigationViewController.m */; };
+		504F1701262823FF00BFF308 /* ScrollSonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F1700262823FF00BFF308 /* ScrollSonViewController.m */; };
+		504F170826282F7400BFF308 /* addreseTypeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F170726282F7400BFF308 /* addreseTypeView.m */; };
+		504F17122628334500BFF308 /* AddreseCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 504F17102628334500BFF308 /* AddreseCollectionViewCell.m */; };
+		504F17132628334500BFF308 /* AddreseCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 504F17112628334500BFF308 /* AddreseCollectionViewCell.xib */; };
+		506D1B79262979F100F19051 /* currentTimeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 506D1B78262979F100F19051 /* currentTimeView.m */; };
+		506D1FEE262982B800F19051 /* ThreeButtonTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 506D1FEC262982B800F19051 /* ThreeButtonTableViewCell.m */; };
+		506D1FEF262982B800F19051 /* ThreeButtonTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 506D1FED262982B800F19051 /* ThreeButtonTableViewCell.xib */; };
 		509DF1CB2599891A00AF3309 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DF1CA2599891A00AF3309 /* AppDelegate.m */; };
 		509DF1D12599891A00AF3309 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DF1D02599891A00AF3309 /* ViewController.m */; };
 		509DF1D62599891C00AF3309 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 509DF1D52599891C00AF3309 /* Assets.xcassets */; };
@@ -23,8 +36,27 @@
 		509DF4E92599B17800AF3309 /* NDPopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DF4E82599B17800AF3309 /* NDPopView.m */; };
 		509DF4F32599B49C00AF3309 /* UIView+ViewFrameGeometry.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DF4F22599B49C00AF3309 /* UIView+ViewFrameGeometry.m */; };
 		509DF5142599BE8C00AF3309 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 509DF5132599BE8C00AF3309 /* BaseViewController.m */; };
-		8C53300AF338C154A85E4931 /* Pods_seriousWork_seriousWorkUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6BEF57D0AF2BC5B7A64DE27 /* Pods_seriousWork_seriousWorkUITests.framework */; };
-		E0FE820018AFBD94903B8412 /* Pods_seriousWorkTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C01EE93D091D3759EA6B23FE /* Pods_seriousWorkTests.framework */; };
+		50A3B7AC262AB60B007466F8 /* ThreeButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7AB262AB60B007466F8 /* ThreeButtonView.m */; };
+		50A3B7B5262BD6A5007466F8 /* DataCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7B3262BD6A5007466F8 /* DataCollectionViewCell.m */; };
+		50A3B7B6262BD6A5007466F8 /* DataCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50A3B7B4262BD6A5007466F8 /* DataCollectionViewCell.xib */; };
+		50A3B7CC262BF7EA007466F8 /* drawViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7CA262BF7EA007466F8 /* drawViewController.m */; };
+		50A3B7CD262BF7EA007466F8 /* drawViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50A3B7CB262BF7EA007466F8 /* drawViewController.xib */; };
+		50A3B7D6262BF8D5007466F8 /* MyPaintView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7D5262BF8D5007466F8 /* MyPaintView.m */; };
+		50A3B7E2262C069F007466F8 /* UIImage+MJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7E1262C069F007466F8 /* UIImage+MJ.m */; };
+		50A3B7F9262C0EE4007466F8 /* MyPaintView2.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B7F8262C0EE4007466F8 /* MyPaintView2.m */; };
+		50A3B803262C106D007466F8 /* draw2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50A3B801262C106D007466F8 /* draw2ViewController.m */; };
+		50A3B804262C106D007466F8 /* draw2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50A3B802262C106D007466F8 /* draw2ViewController.xib */; };
+		50C4AD8326366AB100642A24 /* TransformViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C4AD8126366AB100642A24 /* TransformViewController.m */; };
+		50C4AD8426366AB100642A24 /* TransformViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50C4AD8226366AB100642A24 /* TransformViewController.xib */; };
+		50C4C15926390AD400642A24 /* CATrainsitionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C4C15726390AD400642A24 /* CATrainsitionViewController.m */; };
+		50C4C15A26390AD400642A24 /* CATrainsitionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50C4C15826390AD400642A24 /* CATrainsitionViewController.xib */; };
+		50C4C46D263938C400642A24 /* CAAnimationGroupController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C4C46B263938C400642A24 /* CAAnimationGroupController.m */; };
+		50C4C46E263938C400642A24 /* CAAnimationGroupController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50C4C46C263938C400642A24 /* CAAnimationGroupController.xib */; };
+		50C4C47D26394C3C00642A24 /* Wheel.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C4C47C26394C3C00642A24 /* Wheel.m */; };
+		50C4C48A26394C8000642A24 /* Wheel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50C4C48926394C8000642A24 /* Wheel.xib */; };
+		50C4C49A26394DFC00642A24 /* WheelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C4C49826394DFC00642A24 /* WheelViewController.m */; };
+		50C4C49B26394DFC00642A24 /* WheelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50C4C49926394DFC00642A24 /* WheelViewController.xib */; };
+		50F36BAB25AD97390075F0C4 /* ccccViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50F36BAA25AD97390075F0C4 /* ccccViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,9 +77,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0D2195A6C5AAD1C5CFD8CC80 /* Pods-seriousWorkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWorkTests.release.xcconfig"; path = "Target Support Files/Pods-seriousWorkTests/Pods-seriousWorkTests.release.xcconfig"; sourceTree = "<group>"; };
-		34FC34D3BDD04C5A33EF7074 /* Pods-seriousWork-seriousWorkUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWork-seriousWorkUITests.debug.xcconfig"; path = "Target Support Files/Pods-seriousWork-seriousWorkUITests/Pods-seriousWork-seriousWorkUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		4B6E61B4E1397D141E556CCF /* Pods_seriousWork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_seriousWork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		504F153D2627EF0200BFF308 /* ScrollTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollTableViewController.h; sourceTree = "<group>"; };
+		504F153E2627EF0200BFF308 /* ScrollTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollTableViewController.m; sourceTree = "<group>"; };
+		504F16C626280F8900BFF308 /* ListHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListHeaderView.h; sourceTree = "<group>"; };
+		504F16C726280F8900BFF308 /* ListHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ListHeaderView.m; sourceTree = "<group>"; };
+		504F16D7262811C300BFF308 /* NDColorTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NDColorTool.h; sourceTree = "<group>"; };
+		504F16D8262811C300BFF308 /* NDColorTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NDColorTool.m; sourceTree = "<group>"; };
+		504F16E02628123C00BFF308 /* NDUIConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NDUIConfig.h; sourceTree = "<group>"; };
+		504F16E12628123C00BFF308 /* NDUIConfig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NDUIConfig.m; sourceTree = "<group>"; };
+		504F16EA262817E600BFF308 /* SegmentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SegmentView.h; sourceTree = "<group>"; };
+		504F16EB262817E600BFF308 /* SegmentView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SegmentView.m; sourceTree = "<group>"; };
+		504F16F026281B0B00BFF308 /* NavigationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NavigationViewController.h; sourceTree = "<group>"; };
+		504F16F126281B0B00BFF308 /* NavigationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigationViewController.m; sourceTree = "<group>"; };
+		504F16FF262823FF00BFF308 /* ScrollSonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollSonViewController.h; sourceTree = "<group>"; };
+		504F1700262823FF00BFF308 /* ScrollSonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollSonViewController.m; sourceTree = "<group>"; };
+		504F170626282F7400BFF308 /* addreseTypeView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = addreseTypeView.h; sourceTree = "<group>"; };
+		504F170726282F7400BFF308 /* addreseTypeView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = addreseTypeView.m; sourceTree = "<group>"; };
+		504F170F2628334500BFF308 /* AddreseCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddreseCollectionViewCell.h; sourceTree = "<group>"; };
+		504F17102628334500BFF308 /* AddreseCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddreseCollectionViewCell.m; sourceTree = "<group>"; };
+		504F17112628334500BFF308 /* AddreseCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AddreseCollectionViewCell.xib; sourceTree = "<group>"; };
+		506D1B77262979F100F19051 /* currentTimeView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = currentTimeView.h; sourceTree = "<group>"; };
+		506D1B78262979F100F19051 /* currentTimeView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = currentTimeView.m; sourceTree = "<group>"; };
+		506D1FEB262982B800F19051 /* ThreeButtonTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeButtonTableViewCell.h; sourceTree = "<group>"; };
+		506D1FEC262982B800F19051 /* ThreeButtonTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeButtonTableViewCell.m; sourceTree = "<group>"; };
+		506D1FED262982B800F19051 /* ThreeButtonTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ThreeButtonTableViewCell.xib; sourceTree = "<group>"; };
 		509DF1C62599891A00AF3309 /* seriousWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = seriousWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		509DF1C92599891A00AF3309 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		509DF1CA2599891A00AF3309 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -81,11 +135,42 @@
 		509DF50E2599BD8200AF3309 /* SeriousHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SeriousHeader.h; sourceTree = "<group>"; };
 		509DF5122599BE8C00AF3309 /* BaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
 		509DF5132599BE8C00AF3309 /* BaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		5D5F010EA42B9581948B8241 /* Pods-seriousWorkTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWorkTests.debug.xcconfig"; path = "Target Support Files/Pods-seriousWorkTests/Pods-seriousWorkTests.debug.xcconfig"; sourceTree = "<group>"; };
+		50A3B62C262AA7B3007466F8 /* ToolDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ToolDefine.h; sourceTree = "<group>"; };
+		50A3B7AA262AB60B007466F8 /* ThreeButtonView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeButtonView.h; sourceTree = "<group>"; };
+		50A3B7AB262AB60B007466F8 /* ThreeButtonView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeButtonView.m; sourceTree = "<group>"; };
+		50A3B7B2262BD6A5007466F8 /* DataCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataCollectionViewCell.h; sourceTree = "<group>"; };
+		50A3B7B3262BD6A5007466F8 /* DataCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataCollectionViewCell.m; sourceTree = "<group>"; };
+		50A3B7B4262BD6A5007466F8 /* DataCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DataCollectionViewCell.xib; sourceTree = "<group>"; };
+		50A3B7C9262BF7EA007466F8 /* drawViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = drawViewController.h; sourceTree = "<group>"; };
+		50A3B7CA262BF7EA007466F8 /* drawViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = drawViewController.m; sourceTree = "<group>"; };
+		50A3B7CB262BF7EA007466F8 /* drawViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = drawViewController.xib; sourceTree = "<group>"; };
+		50A3B7D4262BF8D5007466F8 /* MyPaintView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyPaintView.h; sourceTree = "<group>"; };
+		50A3B7D5262BF8D5007466F8 /* MyPaintView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyPaintView.m; sourceTree = "<group>"; };
+		50A3B7E0262C069F007466F8 /* UIImage+MJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+MJ.h"; sourceTree = "<group>"; };
+		50A3B7E1262C069F007466F8 /* UIImage+MJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+MJ.m"; sourceTree = "<group>"; };
+		50A3B7F7262C0EE4007466F8 /* MyPaintView2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyPaintView2.h; sourceTree = "<group>"; };
+		50A3B7F8262C0EE4007466F8 /* MyPaintView2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyPaintView2.m; sourceTree = "<group>"; };
+		50A3B800262C106D007466F8 /* draw2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = draw2ViewController.h; sourceTree = "<group>"; };
+		50A3B801262C106D007466F8 /* draw2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = draw2ViewController.m; sourceTree = "<group>"; };
+		50A3B802262C106D007466F8 /* draw2ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = draw2ViewController.xib; sourceTree = "<group>"; };
+		50C4AD8026366AB100642A24 /* TransformViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TransformViewController.h; sourceTree = "<group>"; };
+		50C4AD8126366AB100642A24 /* TransformViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TransformViewController.m; sourceTree = "<group>"; };
+		50C4AD8226366AB100642A24 /* TransformViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TransformViewController.xib; sourceTree = "<group>"; };
+		50C4C15626390AD400642A24 /* CATrainsitionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CATrainsitionViewController.h; sourceTree = "<group>"; };
+		50C4C15726390AD400642A24 /* CATrainsitionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CATrainsitionViewController.m; sourceTree = "<group>"; };
+		50C4C15826390AD400642A24 /* CATrainsitionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CATrainsitionViewController.xib; sourceTree = "<group>"; };
+		50C4C46A263938C400642A24 /* CAAnimationGroupController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAAnimationGroupController.h; sourceTree = "<group>"; };
+		50C4C46B263938C400642A24 /* CAAnimationGroupController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAAnimationGroupController.m; sourceTree = "<group>"; };
+		50C4C46C263938C400642A24 /* CAAnimationGroupController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CAAnimationGroupController.xib; sourceTree = "<group>"; };
+		50C4C47B26394C3C00642A24 /* Wheel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Wheel.h; sourceTree = "<group>"; };
+		50C4C47C26394C3C00642A24 /* Wheel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Wheel.m; sourceTree = "<group>"; };
+		50C4C48926394C8000642A24 /* Wheel.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Wheel.xib; sourceTree = "<group>"; };
+		50C4C49726394DFC00642A24 /* WheelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WheelViewController.h; sourceTree = "<group>"; };
+		50C4C49826394DFC00642A24 /* WheelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WheelViewController.m; sourceTree = "<group>"; };
+		50C4C49926394DFC00642A24 /* WheelViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WheelViewController.xib; sourceTree = "<group>"; };
+		50F36BA925AD97390075F0C4 /* ccccViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ccccViewController.h; sourceTree = "<group>"; };
+		50F36BAA25AD97390075F0C4 /* ccccViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ccccViewController.m; sourceTree = "<group>"; };
 		754F82D83B37E72F8D4C283A /* Pods-seriousWork.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWork.release.xcconfig"; path = "Target Support Files/Pods-seriousWork/Pods-seriousWork.release.xcconfig"; sourceTree = "<group>"; };
-		A4CD18BF989387DD75AB9444 /* Pods-seriousWork-seriousWorkUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWork-seriousWorkUITests.release.xcconfig"; path = "Target Support Files/Pods-seriousWork-seriousWorkUITests/Pods-seriousWork-seriousWorkUITests.release.xcconfig"; sourceTree = "<group>"; };
-		C01EE93D091D3759EA6B23FE /* Pods_seriousWorkTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_seriousWorkTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E6BEF57D0AF2BC5B7A64DE27 /* Pods_seriousWork_seriousWorkUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_seriousWork_seriousWorkUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9EE755B05628E6130946AC0 /* Pods-seriousWork.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-seriousWork.debug.xcconfig"; path = "Target Support Files/Pods-seriousWork/Pods-seriousWork.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,7 +187,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0FE820018AFBD94903B8412 /* Pods_seriousWorkTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -110,7 +194,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C53300AF338C154A85E4931 /* Pods_seriousWork_seriousWorkUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,10 +204,67 @@
 			isa = PBXGroup;
 			children = (
 				4B6E61B4E1397D141E556CCF /* Pods_seriousWork.framework */,
-				E6BEF57D0AF2BC5B7A64DE27 /* Pods_seriousWork_seriousWorkUITests.framework */,
-				C01EE93D091D3759EA6B23FE /* Pods_seriousWorkTests.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		504F153C2627EEC600BFF308 /* 分页 */ = {
+			isa = PBXGroup;
+			children = (
+				504F170526282F1A00BFF308 /* view */,
+				504F153D2627EF0200BFF308 /* ScrollTableViewController.h */,
+				504F153E2627EF0200BFF308 /* ScrollTableViewController.m */,
+				504F16C626280F8900BFF308 /* ListHeaderView.h */,
+				504F16C726280F8900BFF308 /* ListHeaderView.m */,
+				504F16EA262817E600BFF308 /* SegmentView.h */,
+				504F16EB262817E600BFF308 /* SegmentView.m */,
+				504F16FF262823FF00BFF308 /* ScrollSonViewController.h */,
+				504F1700262823FF00BFF308 /* ScrollSonViewController.m */,
+			);
+			path = "分页";
+			sourceTree = "<group>";
+		};
+		504F16CC2628103400BFF308 /* 工具 */ = {
+			isa = PBXGroup;
+			children = (
+				509DF50E2599BD8200AF3309 /* SeriousHeader.h */,
+				509DF4F12599B49C00AF3309 /* UIView+ViewFrameGeometry.h */,
+				509DF4F22599B49C00AF3309 /* UIView+ViewFrameGeometry.m */,
+				504F16D7262811C300BFF308 /* NDColorTool.h */,
+				504F16D8262811C300BFF308 /* NDColorTool.m */,
+				504F16E02628123C00BFF308 /* NDUIConfig.h */,
+				504F16E12628123C00BFF308 /* NDUIConfig.m */,
+				50A3B62C262AA7B3007466F8 /* ToolDefine.h */,
+			);
+			path = "工具";
+			sourceTree = "<group>";
+		};
+		504F16E62628160D00BFF308 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				509DF36D25998CA600AF3309 /* HomeViewController.h */,
+				509DF36E25998CA600AF3309 /* HomeViewController.m */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		504F170526282F1A00BFF308 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				504F170626282F7400BFF308 /* addreseTypeView.h */,
+				504F170726282F7400BFF308 /* addreseTypeView.m */,
+				504F170F2628334500BFF308 /* AddreseCollectionViewCell.h */,
+				504F17102628334500BFF308 /* AddreseCollectionViewCell.m */,
+				504F17112628334500BFF308 /* AddreseCollectionViewCell.xib */,
+				506D1B77262979F100F19051 /* currentTimeView.h */,
+				506D1B78262979F100F19051 /* currentTimeView.m */,
+				506D1FEB262982B800F19051 /* ThreeButtonTableViewCell.h */,
+				506D1FEC262982B800F19051 /* ThreeButtonTableViewCell.m */,
+				506D1FED262982B800F19051 /* ThreeButtonTableViewCell.xib */,
+				50A3B7AA262AB60B007466F8 /* ThreeButtonView.h */,
+				50A3B7AB262AB60B007466F8 /* ThreeButtonView.m */,
+			);
+			path = view;
 			sourceTree = "<group>";
 		};
 		509DF1BD2599891A00AF3309 = {
@@ -198,30 +338,110 @@
 			children = (
 				509DF4CB2599A8AC00AF3309 /* MainViewController.h */,
 				509DF4CC2599A8AC00AF3309 /* MainViewController.m */,
-				509DF36D25998CA600AF3309 /* HomeViewController.h */,
-				509DF36E25998CA600AF3309 /* HomeViewController.m */,
 				509DF4D12599A8D200AF3309 /* NewsViewController.h */,
 				509DF4D22599A8D200AF3309 /* NewsViewController.m */,
-				509DF4DA2599A8E700AF3309 /* CircleViewController.h */,
-				509DF4DB2599A8E700AF3309 /* CircleViewController.m */,
 				509DF4E02599A8F200AF3309 /* MineViewController.h */,
 				509DF4E12599A8F200AF3309 /* MineViewController.m */,
 				509DF5122599BE8C00AF3309 /* BaseViewController.h */,
 				509DF5132599BE8C00AF3309 /* BaseViewController.m */,
+				504F16F026281B0B00BFF308 /* NavigationViewController.h */,
+				504F16F126281B0B00BFF308 /* NavigationViewController.m */,
 			);
 			path = tabbar;
+			sourceTree = "<group>";
+		};
+		50A3B7B0262BD5E3007466F8 /* cricle */ = {
+			isa = PBXGroup;
+			children = (
+				50A3B7B1262BD60C007466F8 /* collectionview */,
+				509DF4DA2599A8E700AF3309 /* CircleViewController.h */,
+				509DF4DB2599A8E700AF3309 /* CircleViewController.m */,
+			);
+			path = cricle;
+			sourceTree = "<group>";
+		};
+		50A3B7B1262BD60C007466F8 /* collectionview */ = {
+			isa = PBXGroup;
+			children = (
+				50A3B7B2262BD6A5007466F8 /* DataCollectionViewCell.h */,
+				50A3B7B3262BD6A5007466F8 /* DataCollectionViewCell.m */,
+				50A3B7B4262BD6A5007466F8 /* DataCollectionViewCell.xib */,
+			);
+			path = collectionview;
+			sourceTree = "<group>";
+		};
+		50A3B7C8262BF7C8007466F8 /* 涂鸦 */ = {
+			isa = PBXGroup;
+			children = (
+				50A3B7EB262C0EA7007466F8 /* 涂鸦2 */,
+				50A3B7C9262BF7EA007466F8 /* drawViewController.h */,
+				50A3B7CA262BF7EA007466F8 /* drawViewController.m */,
+				50A3B7CB262BF7EA007466F8 /* drawViewController.xib */,
+				50A3B7D4262BF8D5007466F8 /* MyPaintView.h */,
+				50A3B7D5262BF8D5007466F8 /* MyPaintView.m */,
+				50A3B7E0262C069F007466F8 /* UIImage+MJ.h */,
+				50A3B7E1262C069F007466F8 /* UIImage+MJ.m */,
+			);
+			path = "涂鸦";
+			sourceTree = "<group>";
+		};
+		50A3B7EB262C0EA7007466F8 /* 涂鸦2 */ = {
+			isa = PBXGroup;
+			children = (
+				50A3B7F7262C0EE4007466F8 /* MyPaintView2.h */,
+				50A3B7F8262C0EE4007466F8 /* MyPaintView2.m */,
+				50A3B800262C106D007466F8 /* draw2ViewController.h */,
+				50A3B801262C106D007466F8 /* draw2ViewController.m */,
+				50A3B802262C106D007466F8 /* draw2ViewController.xib */,
+			);
+			path = "涂鸦2";
 			sourceTree = "<group>";
 		};
 		50B2DA2F25A83F7E00EDC50D /* seriosWork */ = {
 			isa = PBXGroup;
 			children = (
-				509DF50E2599BD8200AF3309 /* SeriousHeader.h */,
-				509DF4F12599B49C00AF3309 /* UIView+ViewFrameGeometry.h */,
-				509DF4F22599B49C00AF3309 /* UIView+ViewFrameGeometry.m */,
+				50C4AD7F26366A8900642A24 /* 动画 */,
+				50A3B7C8262BF7C8007466F8 /* 涂鸦 */,
+				50A3B7B0262BD5E3007466F8 /* cricle */,
+				504F16E62628160D00BFF308 /* Home */,
+				504F16CC2628103400BFF308 /* 工具 */,
+				504F153C2627EEC600BFF308 /* 分页 */,
 				509DF4F02599B45A00AF3309 /* tabbar */,
 				509DF4E62599B15D00AF3309 /* popview */,
+				50F36BA925AD97390075F0C4 /* ccccViewController.h */,
+				50F36BAA25AD97390075F0C4 /* ccccViewController.m */,
 			);
 			path = seriosWork;
+			sourceTree = "<group>";
+		};
+		50C4AD7F26366A8900642A24 /* 动画 */ = {
+			isa = PBXGroup;
+			children = (
+				50C4C47A26394C2100642A24 /* 转盘 */,
+				50C4AD8026366AB100642A24 /* TransformViewController.h */,
+				50C4AD8126366AB100642A24 /* TransformViewController.m */,
+				50C4AD8226366AB100642A24 /* TransformViewController.xib */,
+				50C4C15626390AD400642A24 /* CATrainsitionViewController.h */,
+				50C4C15726390AD400642A24 /* CATrainsitionViewController.m */,
+				50C4C15826390AD400642A24 /* CATrainsitionViewController.xib */,
+				50C4C46A263938C400642A24 /* CAAnimationGroupController.h */,
+				50C4C46B263938C400642A24 /* CAAnimationGroupController.m */,
+				50C4C46C263938C400642A24 /* CAAnimationGroupController.xib */,
+			);
+			path = "动画";
+			sourceTree = "<group>";
+		};
+		50C4C47A26394C2100642A24 /* 转盘 */ = {
+			isa = PBXGroup;
+			children = (
+				50C4C47B26394C3C00642A24 /* Wheel.h */,
+				50C4C47C26394C3C00642A24 /* Wheel.m */,
+				50C4C48926394C8000642A24 /* Wheel.xib */,
+				50C4C49726394DFC00642A24 /* WheelViewController.h */,
+				50C4C49826394DFC00642A24 /* WheelViewController.m */,
+				50C4C49926394DFC00642A24 /* WheelViewController.xib */,
+			);
+			path = "转盘";
 			sourceTree = "<group>";
 		};
 		C182272AA082682CDE2BFCB9 /* Pods */ = {
@@ -229,10 +449,6 @@
 			children = (
 				E9EE755B05628E6130946AC0 /* Pods-seriousWork.debug.xcconfig */,
 				754F82D83B37E72F8D4C283A /* Pods-seriousWork.release.xcconfig */,
-				34FC34D3BDD04C5A33EF7074 /* Pods-seriousWork-seriousWorkUITests.debug.xcconfig */,
-				A4CD18BF989387DD75AB9444 /* Pods-seriousWork-seriousWorkUITests.release.xcconfig */,
-				5D5F010EA42B9581948B8241 /* Pods-seriousWorkTests.debug.xcconfig */,
-				0D2195A6C5AAD1C5CFD8CC80 /* Pods-seriousWorkTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -263,7 +479,6 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 509DF1F82599891D00AF3309 /* Build configuration list for PBXNativeTarget "seriousWorkTests" */;
 			buildPhases = (
-				F36D147DC357B392C160E109 /* [CP] Check Pods Manifest.lock */,
 				509DF1DD2599891C00AF3309 /* Sources */,
 				509DF1DE2599891C00AF3309 /* Frameworks */,
 				509DF1DF2599891C00AF3309 /* Resources */,
@@ -282,11 +497,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 509DF1FB2599891D00AF3309 /* Build configuration list for PBXNativeTarget "seriousWorkUITests" */;
 			buildPhases = (
-				AF7820DA6A257C681A330A77 /* [CP] Check Pods Manifest.lock */,
 				509DF1E82599891C00AF3309 /* Sources */,
 				509DF1E92599891C00AF3309 /* Frameworks */,
 				509DF1EA2599891C00AF3309 /* Resources */,
-				FEB83309041BA7D9A6DF4D58 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -344,8 +557,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50A3B7CD262BF7EA007466F8 /* drawViewController.xib in Resources */,
+				50A3B804262C106D007466F8 /* draw2ViewController.xib in Resources */,
+				50C4C46E263938C400642A24 /* CAAnimationGroupController.xib in Resources */,
+				50C4C48A26394C8000642A24 /* Wheel.xib in Resources */,
+				506D1FEF262982B800F19051 /* ThreeButtonTableViewCell.xib in Resources */,
 				509DF1D92599891C00AF3309 /* LaunchScreen.storyboard in Resources */,
+				50A3B7B6262BD6A5007466F8 /* DataCollectionViewCell.xib in Resources */,
+				504F17132628334500BFF308 /* AddreseCollectionViewCell.xib in Resources */,
+				50C4C49B26394DFC00642A24 /* WheelViewController.xib in Resources */,
 				509DF1D62599891C00AF3309 /* Assets.xcassets in Resources */,
+				50C4C15A26390AD400642A24 /* CATrainsitionViewController.xib in Resources */,
+				50C4AD8426366AB100642A24 /* TransformViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,67 +628,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		AF7820DA6A257C681A330A77 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-seriousWork-seriousWorkUITests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F36D147DC357B392C160E109 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-seriousWorkTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		FEB83309041BA7D9A6DF4D58 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-seriousWork-seriousWorkUITests/Pods-seriousWork-seriousWorkUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-seriousWork-seriousWorkUITests/Pods-seriousWork-seriousWorkUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-seriousWork-seriousWorkUITests/Pods-seriousWork-seriousWorkUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -473,17 +635,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50A3B7D6262BF8D5007466F8 /* MyPaintView.m in Sources */,
 				509DF1D12599891A00AF3309 /* ViewController.m in Sources */,
+				50A3B7F9262C0EE4007466F8 /* MyPaintView2.m in Sources */,
 				509DF1CB2599891A00AF3309 /* AppDelegate.m in Sources */,
 				509DF5142599BE8C00AF3309 /* BaseViewController.m in Sources */,
+				50A3B7AC262AB60B007466F8 /* ThreeButtonView.m in Sources */,
 				509DF1DC2599891C00AF3309 /* main.m in Sources */,
 				509DF4D32599A8D200AF3309 /* NewsViewController.m in Sources */,
+				506D1B79262979F100F19051 /* currentTimeView.m in Sources */,
+				504F170826282F7400BFF308 /* addreseTypeView.m in Sources */,
+				504F17122628334500BFF308 /* AddreseCollectionViewCell.m in Sources */,
+				50C4C47D26394C3C00642A24 /* Wheel.m in Sources */,
 				509DF4DC2599A8E700AF3309 /* CircleViewController.m in Sources */,
+				50A3B7B5262BD6A5007466F8 /* DataCollectionViewCell.m in Sources */,
+				50F36BAB25AD97390075F0C4 /* ccccViewController.m in Sources */,
+				50A3B7CC262BF7EA007466F8 /* drawViewController.m in Sources */,
+				50C4C46D263938C400642A24 /* CAAnimationGroupController.m in Sources */,
+				50C4C15926390AD400642A24 /* CATrainsitionViewController.m in Sources */,
+				504F153F2627EF0200BFF308 /* ScrollTableViewController.m in Sources */,
+				504F16F226281B0B00BFF308 /* NavigationViewController.m in Sources */,
+				50A3B7E2262C069F007466F8 /* UIImage+MJ.m in Sources */,
 				509DF4CD2599A8AC00AF3309 /* MainViewController.m in Sources */,
+				504F16C826280F8900BFF308 /* ListHeaderView.m in Sources */,
 				509DF4E92599B17800AF3309 /* NDPopView.m in Sources */,
 				509DF36F25998CA600AF3309 /* HomeViewController.m in Sources */,
+				504F16D9262811C300BFF308 /* NDColorTool.m in Sources */,
+				504F16E22628123C00BFF308 /* NDUIConfig.m in Sources */,
+				504F1701262823FF00BFF308 /* ScrollSonViewController.m in Sources */,
 				509DF4E22599A8F200AF3309 /* MineViewController.m in Sources */,
+				50C4C49A26394DFC00642A24 /* WheelViewController.m in Sources */,
+				504F16EC262817E600BFF308 /* SegmentView.m in Sources */,
+				506D1FEE262982B800F19051 /* ThreeButtonTableViewCell.m in Sources */,
+				50C4AD8326366AB100642A24 /* TransformViewController.m in Sources */,
 				509DF4F32599B49C00AF3309 /* UIView+ViewFrameGeometry.m in Sources */,
+				50A3B803262C106D007466F8 /* draw2ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -567,6 +753,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				EXCLUDED_ARCHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -649,7 +836,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/seriousWork/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = /Users/shizongyun/seriousWork/seriousWork/PrefixHeader.pch;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "${SRCROOT}";
 				INFOPLIST_FILE = seriousWork/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -660,6 +848,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = szy.seriousWork;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)";
 			};
 			name = Debug;
 		};
@@ -670,7 +859,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				GCC_PREFIX_HEADER = "$(PROJECT_DIR)/seriousWork/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = /Users/shizongyun/seriousWork/seriousWork/PrefixHeader.pch;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "${SRCROOT}";
 				INFOPLIST_FILE = seriousWork/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -681,12 +871,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = szy.seriousWork;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)";
 			};
 			name = Release;
 		};
 		509DF1F92599891D00AF3309 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5D5F010EA42B9581948B8241 /* Pods-seriousWorkTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -706,7 +896,6 @@
 		};
 		509DF1FA2599891D00AF3309 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0D2195A6C5AAD1C5CFD8CC80 /* Pods-seriousWorkTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -726,7 +915,6 @@
 		};
 		509DF1FC2599891D00AF3309 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 34FC34D3BDD04C5A33EF7074 /* Pods-seriousWork-seriousWorkUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = seriousWorkUITests/Info.plist;
@@ -744,7 +932,6 @@
 		};
 		509DF1FD2599891D00AF3309 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4CD18BF989387DD75AB9444 /* Pods-seriousWork-seriousWorkUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = seriousWorkUITests/Info.plist;

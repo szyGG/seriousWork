@@ -7,7 +7,7 @@
 
 #import "NDPopView.h"
 #import "UIView+ViewFrameGeometry.h"
-#import "Masonry.h"
+//#import "Masonry.h"
 #import "SeriousHeader.h"
 @implementation NDPopView
 

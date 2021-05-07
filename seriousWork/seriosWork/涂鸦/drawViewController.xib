@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="drawViewController">
+            <connections>
+                <outlet property="paintView" destination="Etd-66-oDb" id="BZK-yi-R8n"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b3F-ry-HTK">
+                    <rect key="frame" x="38" y="119" width="70" height="46"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="46" id="JA9-Md-vgF"/>
+                        <constraint firstAttribute="width" constant="70" id="SOC-Jg-eYT"/>
+                    </constraints>
+                    <state key="normal" title="清屏"/>
+                    <connections>
+                        <action selector="clean:" destination="-1" eventType="touchUpInside" id="Dg7-lw-hsv"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zeE-YH-4Cz">
+                    <rect key="frame" x="126" y="119" width="70" height="46"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="46" id="Rea-dV-UWn"/>
+                        <constraint firstAttribute="width" constant="70" id="pfN-b6-qPv"/>
+                    </constraints>
+                    <state key="normal" title="回退"/>
+                    <connections>
+                        <action selector="back:" destination="-1" eventType="touchUpInside" id="9zA-z6-X5y"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Etd-66-oDb" customClass="MyPaintView">
+                    <rect key="frame" x="20" y="173" width="374" height="438"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="438" id="wVI-a6-l3g"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hF6-yY-2W4">
+                    <rect key="frame" x="220" y="119" width="70" height="46"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="70" id="ZDe-jo-rOP"/>
+                        <constraint firstAttribute="height" constant="46" id="w32-PU-J7v"/>
+                    </constraints>
+                    <state key="normal" title="保存"/>
+                    <connections>
+                        <action selector="save:" destination="-1" eventType="touchUpInside" id="rvi-wv-tLI"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+            <color key="backgroundColor" red="0.57964968370000003" green="1" blue="0.89027292889999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <constraints>
+                <constraint firstItem="hF6-yY-2W4" firstAttribute="leading" secondItem="zeE-YH-4Cz" secondAttribute="trailing" constant="24" id="2Ll-j5-Nsf"/>
+                <constraint firstItem="zeE-YH-4Cz" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" constant="75" id="9Jr-Nm-Fwo"/>
+                <constraint firstItem="Q5M-cg-NOt" firstAttribute="trailing" secondItem="Etd-66-oDb" secondAttribute="trailing" constant="20" id="Dwo-Iv-HFd"/>
+                <constraint firstItem="hF6-yY-2W4" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" constant="75" id="HFC-On-pee"/>
+                <constraint firstItem="zeE-YH-4Cz" firstAttribute="leading" secondItem="b3F-ry-HTK" secondAttribute="trailing" constant="18" id="MTr-9H-ikB"/>
+                <constraint firstItem="b3F-ry-HTK" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" constant="75" id="TRE-cP-1Ay"/>
+                <constraint firstItem="Etd-66-oDb" firstAttribute="leading" secondItem="Q5M-cg-NOt" secondAttribute="leading" constant="20" id="V55-PE-lNm"/>
+                <constraint firstItem="Etd-66-oDb" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" constant="129" id="Wzo-NR-9Ih"/>
+                <constraint firstItem="b3F-ry-HTK" firstAttribute="leading" secondItem="Q5M-cg-NOt" secondAttribute="leading" constant="38" id="dYm-GQ-wvI"/>
+            </constraints>
+            <point key="canvasLocation" x="79.710144927536234" y="45.535714285714285"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

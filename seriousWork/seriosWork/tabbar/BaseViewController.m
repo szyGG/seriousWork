@@ -15,9 +15,15 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = WHITE_COLOR;
     self.navigationController.navigationBar.translucent = NO;
 }
 
+
+-(void)dealloc
+{
+    NSLog(@"%@ dealloc",NSStringFromClass([self class]));
+}
 /*
 #pragma mark - Navigation
 

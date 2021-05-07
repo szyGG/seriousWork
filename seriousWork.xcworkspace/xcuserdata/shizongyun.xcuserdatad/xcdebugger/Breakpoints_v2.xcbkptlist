@@ -20,5 +20,2207 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D909DAB7-165E-47B2-8E97-806BC68A8A5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/ccccViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-initWithNibName:bundle:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EB4D445-8210-49B5-9443-B3486A4B3F54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/ccccViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB3428D2-DC6A-45F8-AC75-A12906284E43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ListHeaderView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECBBAFF9-FBE0-47A1-9E01-A49D24110DB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ListHeaderView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4A79628-B0B5-4FC9-BB01-918815C514EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ListHeaderView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E535F450-320D-4D2E-AA9B-1B0163D673A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/addreseTypeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-collectionView:cellForItemAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E535F450-320D-4D2E-AA9B-1B0163D673A0 - c50d232eea974c55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView collectionView:cellForItemAtIndexPath:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "E535F450-320D-4D2E-AA9B-1B0163D673A0 - b28c366bcb95a664"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView collectionView:cellForItemAtIndexPath:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFFA92DC-0F58-4284-AED7-012B2E4A0FCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/addreseTypeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-initialUI"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFFA92DC-0F58-4284-AED7-012B2E4A0FCB - 6467c54f9fc201ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView initialUI]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "FFFA92DC-0F58-4284-AED7-012B2E4A0FCB - 13e6d00abec0ebdb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView initialUI]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9EB514D-3EF9-4534-B83C-39E4BC681DA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/addreseTypeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9EB514D-3EF9-4534-B83C-39E4BC681DA4 - 175fdc92f9900b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView initWithFrame:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "C9EB514D-3EF9-4534-B83C-39E4BC681DA4 - 76f4e88c0e9bea87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[addreseTypeView initWithFrame:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/addreseTypeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD378E44-6255-4AC2-BFCA-0D44C2341146"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/currentTimeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD378E44-6255-4AC2-BFCA-0D44C2341146 - f1ead21eacb934ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initWithFrame:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "CD378E44-6255-4AC2-BFCA-0D44C2341146 - 866bc75b8dbbdeff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initWithFrame:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "CD378E44-6255-4AC2-BFCA-0D44C2341146 - 816e587bb61512fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initWithFrame:]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "CD378E44-6255-4AC2-BFCA-0D44C2341146 - 331a876457f11fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initWithFrame:]"
+                  moduleName = "eval112.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E9E89F8-7457-4872-A62C-7816B661B66A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/currentTimeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-initialUI"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E9E89F8-7457-4872-A62C-7816B661B66A - 7619ec8eb3973116"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "3E9E89F8-7457-4872-A62C-7816B661B66A - 198f9cb9295db27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3E9E89F8-7457-4872-A62C-7816B661B66A - 69d66eba93b1725"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3E9E89F8-7457-4872-A62C-7816B661B66A - 84c296e65a511425"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval112.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/currentTimeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-initialUI"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44 - 7619ec8eb3973273"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "403">
+               </Location>
+               <Location
+                  uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44 - 182d719dc62e73c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__28-[currentTimeView initialUI]_block_invoke"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44 - 198f9cb9295d842"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44 - 69d66eba93b1440"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "B1D09FE6-73E9-49AB-86F1-5BE2EC4F2E44 - 84c296e65a511740"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView initialUI]"
+                  moduleName = "eval112.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEA4A3EB-1D3E-43DB-A0C2-58C2E4AB0BC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/view/currentTimeView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "-btnString:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEA4A3EB-1D3E-43DB-A0C2-58C2E4AB0BC9 - 8a8df85f38a7d23d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView btnString:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "CEA4A3EB-1D3E-43DB-A0C2-58C2E4AB0BC9 - fd0ced1a19a5380c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[currentTimeView btnString:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/view/currentTimeView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F8A5784-4EF1-4182-A7B9-5E5C0F6A2541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F8A5784-4EF1-4182-A7B9-5E5C0F6A2541 - c8be75c285a5357c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "2F8A5784-4EF1-4182-A7B9-5E5C0F6A2541 - bf3f6087a4a7df4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController tableView:cellForRowAtIndexPath:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2C2C882-92A6-4B4D-A840-70705B706056"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2C2C882-92A6-4B4D-A840-70705B706056 - f2a4f85e612cfb0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController tableView:numberOfRowsInSection:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "A2C2C882-92A6-4B4D-A840-70705B706056 - 8525ed1b402e113d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController tableView:numberOfRowsInSection:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F745356-E131-4F1D-95C8-740CE054CF39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "-initialUI"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F745356-E131-4F1D-95C8-740CE054CF39 - aabb86bd811061f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController initialUI]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2006">
+               </Location>
+               <Location
+                  uuid = "8F745356-E131-4F1D-95C8-740CE054CF39 - dd3a93f8a0128bc1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController initialUI]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2006">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BAF4838-5775-4B54-8399-FC4A1A9C4865"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/tabbar/BaseViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB793B88-50DB-49EA-B7E0-6A905ECFFB69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "-scrollViewWillBeginDragging:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDCB0CB3-62F0-405D-9F80-7AF03BA48AFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "-scrollViewWillBeginDragging:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AA86F1F-3F31-4AC5-AD3A-8A0B4A1750AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-hiddenNavgation:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCFAD1BD-DCB9-44F0-99B6-B9EE8C6A97FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1274B8B2-4102-4012-B91B-AFEB47A16D1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09AC3BEA-05E9-4941-8340-E05D061017F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "-hiddenNavgation:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27D2406D-B52F-476E-8D14-E82A0865994C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollTableViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "-hiddenNavgation:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - 9450703d2b572058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - d194e202549490c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ScrollTableViewController hiddenNavgation:]_block_invoke"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - e3d165780a55ca69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - 7a985b65044ba33d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ScrollTableViewController hiddenNavgation:]_block_invoke"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - e352bce83e84ec6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - 7a1b82f5309a853e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ScrollTableViewController hiddenNavgation:]_block_invoke"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - e4d4fa5831fb066b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - e45631c8242a586c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "27D2406D-B52F-476E-8D14-E82A0865994C - e5c808b8df19726d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollTableViewController hiddenNavgation:]"
+                  moduleName = "eval105.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "334">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A70EF2E7-E480-4107-B5DA-959BA8BB2F79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A70EF2E7-E480-4107-B5DA-959BA8BB2F79 - 379465a7b60ef2e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController scrollViewDidScroll:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "A70EF2E7-E480-4107-B5DA-959BA8BB2F79 - 401570e2970c1dfb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScrollSonViewController scrollViewDidScroll:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%88%86%E9%A1%B5/ScrollSonViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "223"
+                  endingLineNumber = "223"
+                  offsetFromSymbolStart = "578">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5760D66E-6AA7-48F3-AF5F-42647CD40E23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x5206;&#x9875;/ScrollSonViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5FEA91D-2D57-42FD-A3B7-B55C09417451"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/tabbar/NewsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-select"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5FEA91D-2D57-42FD-A3B7-B55C09417451 - 502f78e67f585cec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__28-[NewsViewController select]_block_invoke"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/tabbar/NewsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "E5FEA91D-2D57-42FD-A3B7-B55C09417451 - 27ae6da35e5ab702"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__28-[NewsViewController select]_block_invoke"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/tabbar/NewsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12AAC3F3-23DE-47A4-B573-DC442FEF6079"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x6d82;&#x9e26;/MyPaintView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "-drawRect:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCB7703F-557F-4DA3-8B0D-80496AEDDB34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x6d82;&#x9e26;/&#x6d82;&#x9e26;2/draw2ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-sliderChange:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DF12F0C-778F-43DB-AA72-6A578FB62362"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x6d82;&#x9e26;/&#x6d82;&#x9e26;2/MyPaintView2.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-drawRect:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DF12F0C-778F-43DB-AA72-6A578FB62362 - 4e22eae6cbf41522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 drawRect:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "8DF12F0C-778F-43DB-AA72-6A578FB62362 - 4e22eae6cbf41522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 drawRect:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x6d82;&#x9e26;/&#x6d82;&#x9e26;2/MyPaintView2.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-awakeFromNib"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A - 1164164c5f801324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 initWithFrame:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A - 66e503097e82f915"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 initWithFrame:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A - 6666da994a53df16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 initWithFrame:]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A - 4d735fcda4698b6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 init]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "15BF425B-06BC-49D1-A592-D35DA409BC6A - 55b54874fce4dd51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyPaintView2 awakeFromNib]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E6%B6%82%E9%B8%A6/%E6%B6%82%E9%B8%A62/MyPaintView2.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/TransformViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-testView"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324 - c25eb57e753c9705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324 - b5dfa03b543e7d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324 - b55c79ab60ef5bf1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324 - b2da3f1b6f90b157"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "80BF31E6-FEC7-4562-BAAA-11953CEB5324 - b258f48b7a41ef31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "557">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9196260E-E28C-4067-9FEC-EC716ACF2ABB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/TransformViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-testView"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9196260E-E28C-4067-9FEC-EC716ACF2ABB - c25eb57e753c9705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "9196260E-E28C-4067-9FEC-EC716ACF2ABB - b5dfa03b543e7d34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "695">
+               </Location>
+               <Location
+                  uuid = "9196260E-E28C-4067-9FEC-EC716ACF2ABB - b55c79ab60ef5bf1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "9196260E-E28C-4067-9FEC-EC716ACF2ABB - b258f48b7a41ef31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testView]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "557">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "728B2127-0364-45F4-8F7D-EE67E4785517"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/TransformViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-touchesBegan:withEvent:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 7c554995e879904"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 704441dc7f857335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 77c3156c51fae130"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 765d2c1caac9cb31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval105.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 76df628ca7992d32"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval106.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 75d8ffac8c3f796e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval108.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - 745a365c990ea36f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval109.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "728B2127-0364-45F4-8F7D-EE67E4785517 - f602d1d1aea37077"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval110.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/TransformViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "-testTransform"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 8cba8e931fc8d5d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - fbb842460a1b1987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - fc3e04f60564f386"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 77c3156c51fafe19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController touchesBegan:withEvent:]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - fd22f616eb868780"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval105.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - fda0b886e6d66183"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval106.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - fe216336f2275b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval107.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - ff25ec56d841ef9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval109.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 7d7d0bdbefec3ce7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval110.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 7de3324bfb3d16e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval111.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 61686a952b92d7ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController time]"
+                  moduleName = "eval112.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 7ee7bf6bc15faae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval113.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 7f64661bdca884e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval114.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 7fea288bd7f87ee0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval115.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 6fe70bc5638615b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController time]"
+                  moduleName = "eval117.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 716f5c5b896becff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval118.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "E5A4DC79-07B1-4CD4-BE93-96257E580399 - 71ed06cb84b4c6fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController testTransform]"
+                  moduleName = "eval119.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "969C43D6-D671-43CC-B125-27858D0E76BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/TransformViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "-shake"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "969C43D6-D671-43CC-B125-27858D0E76BF - 1f708b0eff36d22d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController shake]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "969C43D6-D671-43CC-B125-27858D0E76BF - 68f19e4bde34381c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController shake]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "969C43D6-D671-43CC-B125-27858D0E76BF - 687247dbeae51e1f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController shake]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "969C43D6-D671-43CC-B125-27858D0E76BF - 6ff4016be59af41e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TransformViewController shake]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/TransformViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08BBB613-C3D2-4AAB-A6D1-6AF856C517BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/CAAnimationGroupController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08BBB613-C3D2-4AAB-A6D1-6AF856C517BA - d86aad8754f71f95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController viewDidLoad]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "08BBB613-C3D2-4AAB-A6D1-6AF856C517BA - afebb8c275f5f462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController viewDidLoad]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "08BBB613-C3D2-4AAB-A6D1-6AF856C517BA - af6861524124d261"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController viewDidLoad]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "08BBB613-C3D2-4AAB-A6D1-6AF856C517BA - a8ee27e24e5b3860"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController viewDidLoad]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "315A956C-6810-4838-B74A-373FF614F6CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/CAAnimationGroupController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-touchesBegan:withEvent:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - a383b4ccb9c82a89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - d402a18998cac0b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - d4817819ac1be6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "eval102.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - d385f539b6b552bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - b371dfefa1433541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[CAAnimationGroupController touchesBegan:withEvent:]_block_invoke"
+                  moduleName = "eval104.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - d11859695427a4be"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "eval107.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - b1ec73bf43d1c342"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[CAAnimationGroupController touchesBegan:withEvent:]_block_invoke"
+                  moduleName = "eval107.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - d19e1ff96b70caa1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CAAnimationGroupController touchesBegan:withEvent:]"
+                  moduleName = "eval108.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "315A956C-6810-4838-B74A-373FF614F6CF - b16a352f7c86ad5d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[CAAnimationGroupController touchesBegan:withEvent:]_block_invoke"
+                  moduleName = "eval108.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/CAAnimationGroupController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56EF7941-701A-4E99-871B-A96D6909842A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/CAAnimationGroupController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-touchesBegan:withEvent:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7A72F36-CB3C-4DD9-BAE5-24A8DC97C1AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/&#x8f6c;&#x76d8;/WheelViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7A72F36-CB3C-4DD9-BAE5-24A8DC97C1AD - f16cb0c176af0484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WheelViewController viewDidLoad]"
+                  moduleName = "seriousWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/%E8%BD%AC%E7%9B%98/WheelViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "C7A72F36-CB3C-4DD9-BAE5-24A8DC97C1AD - 81e83aa46c0322b7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WheelViewController viewDidLoad]"
+                  moduleName = "eval103.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shizongyun/seriousWork/seriousWork/seriosWork/%E5%8A%A8%E7%94%BB/%E8%BD%AC%E7%9B%98/WheelViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54A47440-7347-46EC-BE1C-5302DF459401"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/&#x8f6c;&#x76d8;/Wheel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "-update"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED80156F-E31E-4B4B-9580-8748E16D1383"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seriousWork/seriosWork/&#x52a8;&#x753b;/&#x8f6c;&#x76d8;/Wheel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "-btnclick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

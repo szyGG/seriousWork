@@ -1,2 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-seriousWork/Pods-seriousWork-frameworks.sh
+${BUILT_PRODUCTS_DIR}/HMSegmentedControl/HMSegmentedControl.framework
 ${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
