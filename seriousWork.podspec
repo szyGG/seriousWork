@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "seriousWork"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "组件."
   spec.description  = <<-DESC
    short description of A_section short description of A_section
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   #是否支持ARC
   spec.requires_arc = true
 
-  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.7" }
+  spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.8" }
 
 
   spec.source_files  = "seriousWork/seriosWork/**/*.{h,m}"
