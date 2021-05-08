@@ -29,15 +29,13 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
 
   spec.source       = { :git => "https://github.com/szyGG/seriousWork.git", :tag => "0.0.7" }
-  spec.pod_target_xcconfig = { ‘EXCLUDED_ARCHS[sdk=iphonesimulator*]’ => ‘arm64’ }
-  spec.user_target_xcconfig = { ‘EXCLUDED_ARCHS[sdk=iphonesimulator*]’ => ‘arm64’ }
 
 
   spec.source_files  = "seriousWork/seriosWork/**/*.{h,m}"
   spec.resources = ['seriousWork/*.xcassets']
 
   spec.dependency "Masonry"
-
+  spec.dependency "NDPublicLogicLib" , '0.6.9'
  
 
 end
